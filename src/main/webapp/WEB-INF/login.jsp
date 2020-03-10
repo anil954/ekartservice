@@ -4,5 +4,6 @@
 		<input type ="password" name="password">
 		<input type="text" value="name">
 		<input type="submit" value="submit">
+		<input type="checkbox">
 	</body>
 </html>
